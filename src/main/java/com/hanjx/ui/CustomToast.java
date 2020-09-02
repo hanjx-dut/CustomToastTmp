@@ -13,6 +13,7 @@ import com.blankj.utilcode.util.ActivityUtils;
 
 import java.lang.ref.WeakReference;
 
+
 public class CustomToast {
     protected WeakReference<View> customViewRef;
 
